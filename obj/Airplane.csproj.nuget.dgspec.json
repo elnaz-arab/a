@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\a\\Airplane.csproj": {}
+    "c:\\Users\\Admin\\Desktop\\a\\Airplane.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\a\\Airplane.csproj": {
+    "c:\\Users\\Admin\\Desktop\\a\\Airplane.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\a\\Airplane.csproj",
+        "projectUniqueName": "c:\\Users\\Admin\\Desktop\\a\\Airplane.csproj",
         "projectName": "Airplane",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\a\\Airplane.csproj",
+        "projectPath": "c:\\Users\\Admin\\Desktop\\a\\Airplane.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\a\\obj\\",
+        "outputPath": "c:\\Users\\Admin\\Desktop\\a\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
